@@ -1,0 +1,7 @@
+[project]
+name = "hijri-py-umm-alqura-converter"
+version = "1.0.0"
+description = "Exact Umm Al-Qura Astronomical Hijri-Gregorian Bidirectional Converter (محول التاريخ الهجري والميلادي وفق تقويم أم القرى)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
